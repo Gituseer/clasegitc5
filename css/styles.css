@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+.first-container {
+    display: flex;
+    flex-direction: ;
+    justify-content: center;
+    
+    
+    
+
+}
+
+.blue-square {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(90, 12, 236);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.red-square {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(236, 12, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: rotate(45deg);
+
+}
+
+.yellow-square {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(169, 236, 12);
+}
+
+
+
+
